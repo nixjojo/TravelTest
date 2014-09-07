@@ -10,7 +10,7 @@ namespace TravelTest.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Hello Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "Hello Joy Modify this template to jump-start your ASP.NET MVC application.";
 
             return View();
         }
